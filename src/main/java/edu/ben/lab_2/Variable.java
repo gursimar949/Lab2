@@ -19,8 +19,7 @@ public class Variable {
 		long l = 4l;
 		float f= 5.0f;
 		double d = 6.0d;
-		char c1 = 'A';
-		char c2 = 64;
+		char c = 'A';
 		System.out.println();
 		System.out.println("String and Primitive Types:");
 		System.out.println();
@@ -32,8 +31,7 @@ public class Variable {
 		System.out.println("long: "+l);
 		System.out.println("float: "+f);
 		System.out.println("double: "+d);
-		System.out.println("char: "+c1);
-		System.out.println("char using number: "+c2);
+		System.out.println("char: "+c);
 	}
 
 }
